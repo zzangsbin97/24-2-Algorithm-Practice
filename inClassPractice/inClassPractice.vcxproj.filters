@@ -18,5 +18,8 @@
     <ClCompile Include="selectionSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="insertSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
