@@ -127,8 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bubbleSort.c" />
     <ClCompile Include="insertSort.c" />
+    <ClCompile Include="mergeSort.c" />
     <ClCompile Include="selectionSort.c" />
+    <ClCompile Include="shellSort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
