@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\divideAndConquerAlgorithm">
+      <UniqueIdentifier>{799b87b9-ebab-4f04-a9b6-109fc2e7b538}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="selectionSort.c">
@@ -28,6 +31,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="mergeSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="radixSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

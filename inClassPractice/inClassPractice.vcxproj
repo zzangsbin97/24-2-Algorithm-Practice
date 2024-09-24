@@ -130,6 +130,8 @@
     <ClCompile Include="bubbleSort.c" />
     <ClCompile Include="insertSort.c" />
     <ClCompile Include="mergeSort.c" />
+    <ClCompile Include="quickSort.c" />
+    <ClCompile Include="radixSort.c" />
     <ClCompile Include="selectionSort.c" />
     <ClCompile Include="shellSort.c" />
   </ItemGroup>
